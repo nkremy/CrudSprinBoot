@@ -14,6 +14,7 @@ public class Customers {
     public int id;
     public String nom;
     public String prenom;
+    public String age ;
     
 
 }
